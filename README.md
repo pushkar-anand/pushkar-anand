@@ -2,11 +2,11 @@
 
 So you decided to visit my profile 🥲? Great, let's get acquainted.
 
-**Name?**
+**❄️&nbsp;&nbsp;Name?**
 
 Pushkar Anand
 
-**💬 Tell me a little about you?**
+**💬&nbsp;&nbsp;Tell me a little about you?**
 
 - I love building👷🏽‍♂️ and breaking🔨 systems.
 - I am mostly into backend development. But, You can also find me building ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) apps.
@@ -17,12 +17,12 @@ Pushkar Anand
 - Yes, I work with PHP too.
 - When not 👨🏾‍💻, You can find me streaming,scrolling or 📖.
 
-**💼 What do you do for a living?**
+**💼&nbsp;&nbsp;What do you do for a living?**
 
 I work at [Devfolio](https://devfolio.co) as a Backend Engineer. My day to day work here involves working with multiple systems written in JS, Go and PLPGSQL.
 
 
-**📫 How do I reach you?**
+**📫&nbsp;&nbsp;How do I reach you?**
 
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/gau8PFNB) [![Tweet](https://img.shields.io/badge/Tweet-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_anandpushkar)
 
@@ -37,10 +37,13 @@ I work at [Devfolio](https://devfolio.co) as a Backend Engineer. My day to day w
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## 📊 Stats
-![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkar-anand&show_icons=true&count_private=true&theme=dracula&border_radius=15px)
 
-
-
+<a href="https://github-readme-stats.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar-anand&show_icons=true&count_private=true&theme=dracula&border_radius=15px" />
+</a>
+<a href="https://visitor-badge.glitch.me">
+  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=pushkar-anand.pushkar-anand" />
+</a>
 
 
 
