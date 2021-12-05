@@ -15,7 +15,7 @@ Pushkar Anand
 - I am obsessed  with creating structured, scalable, secure apps.
 - I work with ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white), ![Kotlin](https://img.shields.io/badge/kotlin-%237f52ff.svg?style=flat-square&logo=kotlin&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) and anything that is suitable to the usecase even ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white).
 - Yes, I work with PHP too.
-- When not 👨🏾‍💻, You can find me streaming,scrolling or 📖.
+- When not 👨🏾‍💻 , You can find me streaming,scrolling or 📖.
 - You can ocassionally find me 🚶🏽‍♂️ around playing Pokemon Go
 
 **💼&nbsp;&nbsp;What do you do for a living?**
