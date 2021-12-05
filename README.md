@@ -6,7 +6,7 @@ So you decided to visit my profile 🥲? Great, let's get acquainted.
 
 Pushkar Anand
 
-**💬&nbsp;&nbsp;Tell me a little about you?**
+**💬&nbsp;&nbsp;Tell me a little about you!**
 
 - I love building👷🏽‍♂️ and breaking🔨 systems.
 - I am mostly into backend development. But, You can also find me building ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) apps.
