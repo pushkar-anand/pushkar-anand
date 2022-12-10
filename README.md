@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-So you decided to visit my profile 🥲? Great, let's get acquainted.
-
 **❄️&nbsp;&nbsp;Name?**
 
 Pushkar Anand
