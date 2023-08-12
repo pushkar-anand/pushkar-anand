@@ -18,7 +18,7 @@ Pushkar Anand
 
 **💼&nbsp;&nbsp;What do you do for a living?**
 
-I work at [Devfolio](https://devfolio.co) as a Backend Engineer. My day to day work here involves working with multiple systems written in JS, Go and PLPGSQL.
+I work at [Fold](https://fold.money) as a Backend Engineer. My day to day work here involves working with multiple systems written in Go, Pyhton and PLPGSQL.
 
 
 **📫&nbsp;&nbsp;How do I reach you?**
